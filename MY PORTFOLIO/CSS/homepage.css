@@ -1,0 +1,123 @@
+body {
+    background-image: url('bg.png');
+    background-size: cover; 
+    background-position: center; 
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3f00ec;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+}
+
+.navbar a:hover {
+    background-color: #00008B;
+}
+
+.logo {
+    color: white;
+    font-size: 24px; 
+}
+
+.loginn {
+    border: 2px solid blue;
+    background-color: rgba(255, 255, 255, 0);
+    width: 500px;
+    padding: 20px;
+    margin: 100px auto; 
+    text-align: center; 
+    border-radius: 8px; 
+    border: 2px solid black;
+}
+
+.pecx {
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 200px;
+}
+
+.input {
+    margin-top: 20px; 
+}
+
+input {
+    margin-bottom: 10px; 
+    width: calc(100% - 20px);
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px;
+}
+
+button {
+    margin-top: 10px; 
+    padding: 10px 20px;
+    background-color: #3f00ec; 
+    color: white;
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+}
+
+button:hover {
+    background-color: #00008B; 
+}
+
+.image-placeholder {
+    height: 100%;
+    width: 100%;
+    border-radius: 8px;
+}
+
+body {
+    background-image: url('bg.png');
+    background-size: cover; 
+    background-position: center; 
+    font-family: Arial, sans-serif;.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3f00ec;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+}
+
+.navbar a:hover {
+    background-color: #00008B;
+}
+
+.logo {
+    color: white;
+    font-size: 24px; 
+}
+h3 {
+    width: 60%; 
+    margin: 0 auto; 
+    text-align: justify;
+    text-align-last: center;
+    line-height: 1.6;
+    color: #333;
+    font-size: 18px;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+#container{
+    margin-top: 50px;
+}
+
